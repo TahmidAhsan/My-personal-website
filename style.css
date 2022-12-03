@@ -18,6 +18,9 @@ h2{
 p{
     color: lightslategrey;
 }
+#center{
+    text-align: center;
+}
 
 .half-width{
     width:40%;
@@ -60,9 +63,11 @@ p{
 width: 100%;
 }
 
-#center{
-    text-align: center;
-}
+
 .footer{
     background-image: url("images/footer-bg.png");
+}
+.bottom{
+    position: relative;
+    top: 350px;
 }
